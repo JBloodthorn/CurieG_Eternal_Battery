@@ -2,7 +2,7 @@
   {
     "type": "MOD_INFO",
     "ident": "curieg",
-    "name": "Curie-G Enternal Battery",
+    "name": "Curie-G Eternal Battery",
     "authors": [ "JBloodthorn" ],
     "maintainers": [  ],
     "description": "Lets you combine the rtg power source from the atomic coffeepot with some rechargable batteries, and then strap that into a modded tool. Can run a modded regular coffeepot for several years. Based on 1.3 battery units per minute, times about 7 years. ",

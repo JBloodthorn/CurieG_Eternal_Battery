@@ -1,4 +1,4 @@
-# Curie-G Enternal Battery
+# Curie-G Eternal Battery
 A mod for the game Cataclysm: Bright Nights. Find a new use for that dangerous RTG that you pulled from the back of a coffeepot.
 
 ## New Tools:
